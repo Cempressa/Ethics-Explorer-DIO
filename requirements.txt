@@ -4,12 +4,6 @@
 # CLI aprimorada
 click>=8.1.7
 
-# Validação de dados
-pydantic>=2.5.0
-
-# Formatação de tabelas no terminal
-rich>=13.7.0
-
 # Testes
 pytest>=7.4.0
 pytest-cov>=4.1.0

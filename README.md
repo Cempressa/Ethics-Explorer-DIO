@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/Status-v1.0%20Conclu%C3%ADdo-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/Licença-MIT-green" alt="Licença">
   <img src="https://img.shields.io/badge/MCP-Pronto-purple" alt="MCP">
 </p>
@@ -37,6 +37,40 @@ A plataforma oferece três recursos principais: trilhas de estudo estruturadas, 
 
 ---
 
+## 📸 Demonstração
+
+### Temas Disponíveis
+
+![Temas Disponíveis](docs/screenshots/Temas-BD-Bob.png)
+
+> Visão geral de todos os temas abordados pela plataforma: Ética Profissional, Compliance, LGPD, Segurança da Informação, Conduta Organizacional e Combate à Corrupção. Cada tema possui trilha de estudos, desafios e certificado próprios.
+
+---
+
+### Trilha de Estudos — LGPD
+
+![Trilha LGPD](docs/screenshots/trilha-lgpd.png)
+
+> Exibe o plano de estudos completo da trilha **LGPD — Lei Geral de Proteção de Dados**, organizado em módulos com objetivos, tópicos e duração estimada. O usuário acompanha, passo a passo, os conceitos essenciais da lei — desde dados pessoais e bases legais até os direitos dos titulares e as obrigações das organizações.
+
+---
+
+### Desafio de Compliance
+
+![Desafio Compliance Iniciante](docs/screenshots/desafio-compliance-iniciante.png)
+
+> Sessão interativa de perguntas de múltipla escolha sobre **Compliance**, nível iniciante. Após cada resposta, a plataforma exibe feedback imediato com o resultado (✅ correto / ❌ incorreto) e uma explicação detalhada, reforçando o aprendizado de forma prática diretamente no terminal.
+
+---
+
+### Certificado de Conclusão — Ética
+
+![Certificado Ethics](docs/screenshots/certificado-ethics.png)
+
+> Ao concluir uma trilha, a plataforma emite um **certificado fictício de conclusão** personalizado com o nome do participante, o tema cursado, a data e um código único de verificação. O arquivo é salvo automaticamente na pasta `certificates/` para consulta futura.
+
+---
+
 ## 📦 Instalação
 
 ### Pré-requisitos
@@ -48,8 +82,8 @@ A plataforma oferece três recursos principais: trilhas de estudo estruturadas, 
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/Ethics-Explorer.git
-cd Ethics-Explorer
+git clone https://github.com/Cempressa/Ethics-Explorer-DIO.git
+cd Ethics-Explorer-DIO
 
 # 2. Crie e ative um ambiente virtual
 python -m venv venv
