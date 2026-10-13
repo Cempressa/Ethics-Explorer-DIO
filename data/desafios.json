@@ -1,0 +1,256 @@
+{
+  "desafios": [
+    {
+      "id": "d001",
+      "categoria": "etica_profissional",
+      "nivel": "iniciante",
+      "pergunta": "O que é ética profissional?",
+      "alternativas": [
+        "A) Conjunto de regras impostas pela empresa sem justificativa.",
+        "B) Conjunto de princípios e valores que orientam o comportamento correto no ambiente de trabalho.",
+        "C) Normas exclusivas para cargos de liderança.",
+        "D) Obrigações legais previstas na CLT."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "Ética profissional é o conjunto de princípios e valores que guiam o comportamento dos indivíduos no exercício de sua profissão, visando o bem coletivo e a integridade nas relações."
+    },
+    {
+      "id": "d002",
+      "categoria": "etica_profissional",
+      "nivel": "iniciante",
+      "pergunta": "Qual das situações abaixo representa um conflito de interesses?",
+      "alternativas": [
+        "A) Um funcionário que trabalha em dois departamentos diferentes.",
+        "B) Um gestor que contrata um fornecedor de sua família sem revelar o parentesco.",
+        "C) Um colaborador que realiza horas extras esporadicamente.",
+        "D) Um profissional que atualiza seu currículo durante as férias."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "Conflito de interesses ocorre quando o interesse pessoal de um profissional pode influenciar (ou parece influenciar) suas decisões profissionais, como contratar um fornecedor parente sem transparência."
+    },
+    {
+      "id": "d003",
+      "categoria": "etica_profissional",
+      "nivel": "intermediario",
+      "pergunta": "Um colega pede que você assine um documento atestando a presença dele em uma reunião que não ocorreu. Qual é a atitude ética correta?",
+      "alternativas": [
+        "A) Assinar para não criar conflitos.",
+        "B) Assinar, mas informar ao RH depois.",
+        "C) Recusar e explicar que não pode atestar algo falso.",
+        "D) Ignorar o pedido sem dar resposta."
+      ],
+      "resposta_correta": "C",
+      "explicacao": "A atitude ética é recusar claramente, pois assinar um documento falso constitui falsidade ideológica, além de violar princípios de integridade e honestidade."
+    },
+    {
+      "id": "d004",
+      "categoria": "compliance",
+      "nivel": "iniciante",
+      "pergunta": "Qual lei brasileira estabelece a responsabilidade objetiva de empresas por atos de corrupção?",
+      "alternativas": [
+        "A) Lei 8.666/1993 — Lei de Licitações",
+        "B) Lei 12.846/2013 — Lei Anticorrupção",
+        "C) Lei 9.307/1996 — Lei de Arbitragem",
+        "D) Lei 6.404/1976 — Lei das S.A."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "A Lei 12.846/2013, conhecida como Lei Anticorrupção ou Lei da Empresa Limpa, estabelece a responsabilidade objetiva (independente de culpa) de pessoas jurídicas por atos contra a administração pública."
+    },
+    {
+      "id": "d005",
+      "categoria": "compliance",
+      "nivel": "iniciante",
+      "pergunta": "O que é um canal de denúncias em um programa de compliance?",
+      "alternativas": [
+        "A) Um canal exclusivo para reclamações trabalhistas.",
+        "B) Um mecanismo para relatar irregularidades de forma segura e confidencial.",
+        "C) Um sistema de avaliação de desempenho dos colaboradores.",
+        "D) Uma ferramenta de comunicação interna entre departamentos."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "O canal de denúncias é um mecanismo que permite a qualquer pessoa relatar violações ao código de conduta, irregularidades ou ilegalidades de forma segura, anônima e confidencial."
+    },
+    {
+      "id": "d006",
+      "categoria": "compliance",
+      "nivel": "intermediario",
+      "pergunta": "Qual é o principal objetivo da due diligence de fornecedores em um programa de compliance?",
+      "alternativas": [
+        "A) Negociar melhores preços com fornecedores.",
+        "B) Avaliar a reputação ética e a conformidade legal dos parceiros de negócios.",
+        "C) Verificar a capacidade produtiva dos fornecedores.",
+        "D) Garantir a exclusividade dos contratos firmados."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "A due diligence de fornecedores visa identificar riscos de integridade, como envolvimento em corrupção ou violações legais, protegendo a empresa de responsabilização por atos de terceiros."
+    },
+    {
+      "id": "d007",
+      "categoria": "lgpd",
+      "nivel": "iniciante",
+      "pergunta": "O que são dados pessoais sensíveis segundo a LGPD?",
+      "alternativas": [
+        "A) Dados de clientes armazenados fora do Brasil.",
+        "B) Dados que revelam origem racial, convicção religiosa, saúde, biometria, entre outros.",
+        "C) Dados financeiros de pessoas jurídicas.",
+        "D) Qualquer dado armazenado em formato digital."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "A LGPD define dados sensíveis como aqueles que revelam origem racial ou étnica, convicção religiosa, opinião política, filiação sindical, questões de saúde, vida sexual, dados genéticos ou biométricos."
+    },
+    {
+      "id": "d008",
+      "categoria": "lgpd",
+      "nivel": "iniciante",
+      "pergunta": "Qual órgão é responsável por fiscalizar o cumprimento da LGPD no Brasil?",
+      "alternativas": [
+        "A) PROCON",
+        "B) ANATEL",
+        "C) ANPD — Autoridade Nacional de Proteção de Dados",
+        "D) Banco Central do Brasil"
+      ],
+      "resposta_correta": "C",
+      "explicacao": "A ANPD (Autoridade Nacional de Proteção de Dados) é o órgão federal responsável por zelar pela proteção de dados pessoais, editar normas e fiscalizar o cumprimento da LGPD."
+    },
+    {
+      "id": "d009",
+      "categoria": "lgpd",
+      "nivel": "intermediario",
+      "pergunta": "Em qual situação o consentimento do titular NÃO é necessário para o tratamento de dados pessoais?",
+      "alternativas": [
+        "A) Quando a empresa deseja enviar e-mail marketing.",
+        "B) Quando o tratamento é necessário para cumprir uma obrigação legal.",
+        "C) Quando os dados serão compartilhados com parceiros comerciais.",
+        "D) Quando a empresa cria perfis de usuário para publicidade."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "A LGPD prevê 10 bases legais além do consentimento. O cumprimento de obrigação legal ou regulatória é uma delas — nesses casos, o consentimento do titular não é exigido."
+    },
+    {
+      "id": "d010",
+      "categoria": "lgpd",
+      "nivel": "avancado",
+      "pergunta": "Uma empresa sofreu um incidente de segurança que resultou em acesso não autorizado a dados pessoais de clientes. Qual é o prazo para comunicar a ANPD, segundo as diretrizes vigentes?",
+      "alternativas": [
+        "A) 24 horas após a descoberta.",
+        "B) 72 horas após a descoberta.",
+        "C) 2 dias úteis após a descoberta.",
+        "D) 3 dias úteis após a descoberta."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "A ANPD estabelece que incidentes de segurança que possam acarretar risco ou dano relevante aos titulares devem ser comunicados em até 72 horas após a ciência do incidente pelo controlador."
+    },
+    {
+      "id": "d011",
+      "categoria": "seguranca_informacao",
+      "nivel": "iniciante",
+      "pergunta": "O que representa a tríade CID na segurança da informação?",
+      "alternativas": [
+        "A) Controle, Investigação e Defesa.",
+        "B) Confidencialidade, Integridade e Disponibilidade.",
+        "C) Criptografia, Identidade e Dados.",
+        "D) Conformidade, Integridade e Documentação."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "A tríade CID (Confidencialidade, Integridade e Disponibilidade) são os três pilares fundamentais da segurança da informação, garantindo que dados sejam acessíveis apenas a quem de direito, íntegros e disponíveis quando necessários."
+    },
+    {
+      "id": "d012",
+      "categoria": "seguranca_informacao",
+      "nivel": "iniciante",
+      "pergunta": "O que é phishing?",
+      "alternativas": [
+        "A) Um tipo de vírus que apaga arquivos do computador.",
+        "B) Uma técnica de engenharia social para enganar pessoas e obter informações confidenciais.",
+        "C) Um sistema de monitoramento de rede.",
+        "D) Um protocolo de segurança para e-mails corporativos."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "Phishing é uma técnica de engenharia social em que criminosos se passam por entidades confiáveis (bancos, empresas, colegas) para enganar vítimas e obter senhas, dados bancários ou acesso a sistemas."
+    },
+    {
+      "id": "d013",
+      "categoria": "seguranca_informacao",
+      "nivel": "intermediario",
+      "pergunta": "Qual é a principal finalidade da classificação da informação em uma organização?",
+      "alternativas": [
+        "A) Facilitar a indexação de documentos no sistema.",
+        "B) Determinar o nível de proteção necessário para cada tipo de informação.",
+        "C) Reduzir o custo de armazenamento de dados.",
+        "D) Identificar os autores dos documentos internos."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "A classificação da informação permite definir o nível de sensibilidade de cada dado (público, interno, confidencial, secreto) e aplicar controles de segurança proporcionais ao risco."
+    },
+    {
+      "id": "d014",
+      "categoria": "conduta_organizacional",
+      "nivel": "iniciante",
+      "pergunta": "O que é assédio moral no ambiente de trabalho?",
+      "alternativas": [
+        "A) Críticas construtivas sobre o desempenho profissional.",
+        "B) Comportamento abusivo e repetitivo que visa humilhar, constranger ou prejudicar um trabalhador.",
+        "C) Discussões acaloradas em reuniões de equipe.",
+        "D) Cobranças de metas e prazos por parte de gestores."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "Assédio moral é a exposição repetitiva e prolongada a comportamentos abusivos — humilhações, constrangimentos, isolamento — que visam degradar o ambiente psicológico do trabalhador."
+    },
+    {
+      "id": "d015",
+      "categoria": "conduta_organizacional",
+      "nivel": "intermediario",
+      "pergunta": "Um gestor começa a excluir um funcionário de reuniões importantes e ignora suas contribuições publicamente. Isso caracteriza:",
+      "alternativas": [
+        "A) Gestão por resultados.",
+        "B) Assédio moral.",
+        "C) Avaliação de desempenho.",
+        "D) Reestruturação organizacional."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "A exclusão sistemática e o isolamento deliberado são formas de assédio moral, pois prejudicam o ambiente de trabalho e a saúde psicológica do trabalhador de forma continuada."
+    },
+    {
+      "id": "d016",
+      "categoria": "combate_corrupcao",
+      "nivel": "iniciante",
+      "pergunta": "O que é suborno?",
+      "alternativas": [
+        "A) Um tipo de desconto comercial oferecido a clientes preferenciais.",
+        "B) A oferta ou recebimento de vantagem indevida para influenciar uma decisão.",
+        "C) Uma modalidade de financiamento empresarial.",
+        "D) O pagamento antecipado de serviços futuros."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "Suborno é a prática de oferecer, prometer, dar, solicitar ou receber vantagem indevida (dinheiro, presente, favor) para influenciar a decisão de alguém em posição de confiança ou poder."
+    },
+    {
+      "id": "d017",
+      "categoria": "combate_corrupcao",
+      "nivel": "iniciante",
+      "pergunta": "O que é um whistleblower?",
+      "alternativas": [
+        "A) Um auditor externo contratado para revisar demonstrações financeiras.",
+        "B) Uma pessoa que relata irregularidades ou ilegalidades dentro de uma organização.",
+        "C) Um consultor especializado em compliance.",
+        "D) Um mediador de conflitos trabalhistas."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "Whistleblower é quem denuncia irregularidades, ilegalidades ou condutas antiéticas dentro de uma organização. Muitos países possuem leis que protegem essas pessoas de retaliações."
+    },
+    {
+      "id": "d018",
+      "categoria": "combate_corrupcao",
+      "nivel": "avancado",
+      "pergunta": "Qual das situações abaixo pode caracterizar lavagem de dinheiro?",
+      "alternativas": [
+        "A) Receber salário em conta bancária diferente da habitual.",
+        "B) Integrar recursos de origem ilícita ao sistema financeiro por meio de operações que disfarcem sua origem.",
+        "C) Realizar transferências internacionais para pagamento de fornecedores.",
+        "D) Manter contas bancárias em mais de uma instituição financeira."
+      ],
+      "resposta_correta": "B",
+      "explicacao": "Lavagem de dinheiro é o processo de inserir recursos de origem criminosa no sistema financeiro legítimo, disfarçando sua origem por meio de camadas de transações para torná-los aparentemente lícitos."
+    }
+  ]
+}

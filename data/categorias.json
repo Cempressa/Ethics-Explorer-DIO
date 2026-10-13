@@ -1,0 +1,47 @@
+{
+  "categorias": [
+    {
+      "id": "etica_profissional",
+      "nome": "Ética Profissional",
+      "descricao": "Princípios e valores que orientam o comportamento ético no ambiente de trabalho.",
+      "nivel_minimo": "iniciante",
+      "icone": "⚖️"
+    },
+    {
+      "id": "compliance",
+      "nome": "Compliance",
+      "descricao": "Conformidade com leis, regulamentos, políticas internas e padrões éticos.",
+      "nivel_minimo": "iniciante",
+      "icone": "📋"
+    },
+    {
+      "id": "lgpd",
+      "nome": "LGPD",
+      "descricao": "Lei Geral de Proteção de Dados — direitos dos titulares e obrigações das organizações.",
+      "nivel_minimo": "iniciante",
+      "icone": "🔒"
+    },
+    {
+      "id": "seguranca_informacao",
+      "nome": "Segurança da Informação",
+      "descricao": "Proteção de dados, sistemas e redes contra ameaças e vulnerabilidades.",
+      "nivel_minimo": "iniciante",
+      "icone": "🛡️"
+    },
+    {
+      "id": "conduta_organizacional",
+      "nome": "Conduta Organizacional",
+      "descricao": "Normas de comportamento, relações interpessoais e cultura organizacional.",
+      "nivel_minimo": "iniciante",
+      "icone": "🏢"
+    },
+    {
+      "id": "combate_corrupcao",
+      "nome": "Combate à Corrupção",
+      "descricao": "Prevenção à corrupção, suborno, fraude e lavagem de dinheiro.",
+      "nivel_minimo": "iniciante",
+      "icone": "🚫"
+    }
+  ],
+  "niveis": ["iniciante", "intermediario", "avancado"]
+}

@@ -1,0 +1,23 @@
+# Dependências principais
+# (sem dependências externas obrigatórias na versão inicial — usa apenas stdlib Python)
+
+# CLI aprimorada
+click>=8.1.7
+
+# Validação de dados
+pydantic>=2.5.0
+
+# Formatação de tabelas no terminal
+rich>=13.7.0
+
+# Testes
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Servidor MCP (Model Context Protocol)
+# Descomente quando ativar o servidor MCP:
+# mcp>=1.0.0
+
+# Appwrite SDK (futuro)
+# Descomente quando integrar ao Appwrite:
+# appwrite>=4.0.0

@@ -1,0 +1,314 @@
+{
+  "trilhas": [
+    {
+      "id": "trilha_etica_profissional",
+      "categoria": "etica_profissional",
+      "titulo": "Ética Profissional",
+      "descricao": "Compreenda os fundamentos da ética no ambiente de trabalho e como aplicá-los no dia a dia.",
+      "duracao_estimada": "4 horas",
+      "modulos": [
+        {
+          "ordem": 1,
+          "titulo": "Fundamentos da Ética",
+          "objetivo": "Entender o conceito de ética e sua importância profissional.",
+          "topicos": [
+            "Definição de ética e moral",
+            "Diferença entre ética pessoal e profissional",
+            "Princípios éticos universais",
+            "Dilemas éticos no trabalho"
+          ],
+          "recursos": [
+            "Leitura: Código de Ética Profissional",
+            "Vídeo: O que é ética no trabalho?",
+            "Exercício: Análise de casos reais"
+          ]
+        },
+        {
+          "ordem": 2,
+          "titulo": "Valores Organizacionais",
+          "objetivo": "Identificar e alinhar valores pessoais aos valores da organização.",
+          "topicos": [
+            "Valores, missão e visão organizacional",
+            "Cultura ética nas empresas",
+            "Conflito de interesses",
+            "Transparência e integridade"
+          ],
+          "recursos": [
+            "Leitura: Construindo uma cultura ética",
+            "Estudo de caso: Empresas com ética reconhecida",
+            "Exercício: Mapeamento de valores"
+          ]
+        },
+        {
+          "ordem": 3,
+          "titulo": "Tomada de Decisão Ética",
+          "objetivo": "Aplicar modelos de decisão ética em situações cotidianas.",
+          "topicos": [
+            "Modelos de decisão ética",
+            "O papel da consciência profissional",
+            "Pressão social e conformidade",
+            "Como agir diante de condutas antiéticas"
+          ],
+          "recursos": [
+            "Leitura: Frameworks de decisão ética",
+            "Simulação: Tomada de decisão em cenários",
+            "Avaliação final do módulo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trilha_compliance",
+      "categoria": "compliance",
+      "titulo": "Compliance Corporativo",
+      "descricao": "Aprenda sobre conformidade regulatória, gestão de riscos e programas de integridade.",
+      "duracao_estimada": "5 horas",
+      "modulos": [
+        {
+          "ordem": 1,
+          "titulo": "Introdução ao Compliance",
+          "objetivo": "Compreender o conceito e a importância do compliance nas organizações.",
+          "topicos": [
+            "O que é compliance?",
+            "Histórico e evolução do compliance no Brasil",
+            "Lei Anticorrupção (Lei 12.846/2013)",
+            "Benefícios de um programa de compliance"
+          ],
+          "recursos": [
+            "Leitura: Lei Anticorrupção brasileira",
+            "Vídeo: Compliance na prática",
+            "Quiz: Conceitos básicos"
+          ]
+        },
+        {
+          "ordem": 2,
+          "titulo": "Pilares do Programa de Integridade",
+          "objetivo": "Conhecer os elementos essenciais de um programa de compliance eficaz.",
+          "topicos": [
+            "Comprometimento da alta direção",
+            "Avaliação de riscos",
+            "Código de conduta e políticas internas",
+            "Canal de denúncias e investigações"
+          ],
+          "recursos": [
+            "Leitura: Guia de programas de integridade (CGU)",
+            "Estudo de caso: Implementação de compliance",
+            "Exercício: Análise de riscos"
+          ]
+        },
+        {
+          "ordem": 3,
+          "titulo": "Compliance na Prática",
+          "objetivo": "Aplicar conceitos de compliance no ambiente de trabalho.",
+          "topicos": [
+            "Due diligence de fornecedores e parceiros",
+            "Treinamento e comunicação interna",
+            "Monitoramento e auditorias",
+            "Responsabilização e sanções"
+          ],
+          "recursos": [
+            "Checklist: Avaliação de terceiros",
+            "Simulação: Investigação interna",
+            "Avaliação final do módulo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trilha_lgpd",
+      "categoria": "lgpd",
+      "titulo": "LGPD — Lei Geral de Proteção de Dados",
+      "descricao": "Entenda a LGPD, seus princípios, direitos dos titulares e obrigações das organizações.",
+      "duracao_estimada": "6 horas",
+      "modulos": [
+        {
+          "ordem": 1,
+          "titulo": "Fundamentos da LGPD",
+          "objetivo": "Conhecer a estrutura e os princípios da Lei 13.709/2018.",
+          "topicos": [
+            "O que é a LGPD e por que ela existe?",
+            "Conceitos: dado pessoal, dado sensível, titular, controlador, operador",
+            "Princípios da proteção de dados",
+            "ANPD — Autoridade Nacional de Proteção de Dados"
+          ],
+          "recursos": [
+            "Leitura: Lei 13.709/2018 completa",
+            "Vídeo: LGPD em 10 minutos",
+            "Glossário interativo"
+          ]
+        },
+        {
+          "ordem": 2,
+          "titulo": "Bases Legais e Direitos dos Titulares",
+          "objetivo": "Compreender as bases legais para tratamento de dados e os direitos garantidos pela lei.",
+          "topicos": [
+            "As 10 bases legais para tratamento de dados",
+            "Consentimento: quando e como usar",
+            "Direitos dos titulares de dados",
+            "Como responder a requisições de titulares"
+          ],
+          "recursos": [
+            "Leitura: Guia orientativo da ANPD",
+            "Exercício: Mapeamento de bases legais",
+            "Modelo: Formulário de requisição de titular"
+          ]
+        },
+        {
+          "ordem": 3,
+          "titulo": "Adequação à LGPD",
+          "objetivo": "Implementar práticas de conformidade com a LGPD na organização.",
+          "topicos": [
+            "Mapeamento de dados pessoais (data mapping)",
+            "Política de privacidade e avisos de cookies",
+            "DPO — Encarregado de Proteção de Dados",
+            "Incidentes de segurança e notificação"
+          ],
+          "recursos": [
+            "Template: Política de privacidade",
+            "Checklist: Adequação à LGPD",
+            "Avaliação final do módulo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trilha_seguranca_informacao",
+      "categoria": "seguranca_informacao",
+      "titulo": "Segurança da Informação",
+      "descricao": "Aprenda a proteger dados, sistemas e pessoas contra ameaças digitais e físicas.",
+      "duracao_estimada": "5 horas",
+      "modulos": [
+        {
+          "ordem": 1,
+          "titulo": "Conceitos Fundamentais",
+          "objetivo": "Entender a tríade CID e os principais conceitos de segurança da informação.",
+          "topicos": [
+            "Confidencialidade, Integridade e Disponibilidade (CID)",
+            "Tipos de ameaças e vulnerabilidades",
+            "Engenharia social e phishing",
+            "Boas práticas de senhas e autenticação"
+          ],
+          "recursos": [
+            "Vídeo: A tríade CID explicada",
+            "Infográfico: Tipos de ataques",
+            "Quiz: Reconhecendo ameaças"
+          ]
+        },
+        {
+          "ordem": 2,
+          "titulo": "Proteção no Ambiente Corporativo",
+          "objetivo": "Aplicar medidas de segurança no ambiente de trabalho.",
+          "topicos": [
+            "Política de segurança da informação",
+            "Classificação da informação",
+            "Mesa limpa e tela limpa",
+            "Uso seguro de dispositivos e redes"
+          ],
+          "recursos": [
+            "Leitura: ISO 27001 — visão geral",
+            "Checklist: Segurança no home office",
+            "Exercício: Classificação de documentos"
+          ]
+        },
+        {
+          "ordem": 3,
+          "titulo": "Resposta a Incidentes",
+          "objetivo": "Conhecer o processo de resposta a incidentes de segurança.",
+          "topicos": [
+            "O que é um incidente de segurança?",
+            "Etapas de resposta a incidentes",
+            "Comunicação e escalada",
+            "Lições aprendidas e melhoria contínua"
+          ],
+          "recursos": [
+            "Modelo: Plano de resposta a incidentes",
+            "Simulação: Incidente de vazamento de dados",
+            "Avaliação final do módulo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trilha_conduta_organizacional",
+      "categoria": "conduta_organizacional",
+      "titulo": "Conduta Organizacional",
+      "descricao": "Compreenda as normas de comportamento e relações saudáveis no ambiente de trabalho.",
+      "duracao_estimada": "3 horas",
+      "modulos": [
+        {
+          "ordem": 1,
+          "titulo": "Código de Conduta",
+          "objetivo": "Conhecer e aplicar o código de conduta organizacional.",
+          "topicos": [
+            "O que é um código de conduta?",
+            "Relações com colegas, clientes e fornecedores",
+            "Conflito de interesses e nepotismo",
+            "Uso de recursos da empresa"
+          ],
+          "recursos": [
+            "Modelo: Código de conduta corporativo",
+            "Vídeo: Conduta no ambiente de trabalho",
+            "Exercício: Análise de situações"
+          ]
+        },
+        {
+          "ordem": 2,
+          "titulo": "Diversidade e Inclusão",
+          "objetivo": "Promover um ambiente de trabalho diverso, inclusivo e respeitoso.",
+          "topicos": [
+            "Diversidade e seus benefícios",
+            "Prevenção ao assédio moral e sexual",
+            "Comunicação não-violenta",
+            "Cultura de respeito e pertencimento"
+          ],
+          "recursos": [
+            "Leitura: Lei do Assédio no Trabalho",
+            "Vídeo: Comunicação não-violenta na prática",
+            "Avaliação final do módulo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trilha_combate_corrupcao",
+      "categoria": "combate_corrupcao",
+      "titulo": "Combate à Corrupção",
+      "descricao": "Entenda as formas de corrupção, seus impactos e como combatê-las.",
+      "duracao_estimada": "4 horas",
+      "modulos": [
+        {
+          "ordem": 1,
+          "titulo": "Formas de Corrupção",
+          "objetivo": "Identificar as principais formas de corrupção e seus impactos.",
+          "topicos": [
+            "Corrupção ativa e passiva",
+            "Suborno, propina e pagamentos de facilitação",
+            "Fraude, desvio e lavagem de dinheiro",
+            "Impactos da corrupção na sociedade"
+          ],
+          "recursos": [
+            "Leitura: Convenção da ONU contra a Corrupção",
+            "Documentário: O custo da corrupção",
+            "Quiz: Identificando corrupção"
+          ]
+        },
+        {
+          "ordem": 2,
+          "titulo": "Prevenção e Denúncia",
+          "objetivo": "Conhecer mecanismos de prevenção à corrupção e como agir diante de irregularidades.",
+          "topicos": [
+            "Políticas anticorrupção e antissuborno",
+            "Proteção ao denunciante (whistleblower)",
+            "Canal de denúncias: como e quando usar",
+            "Responsabilidades individuais e corporativas"
+          ],
+          "recursos": [
+            "Leitura: Lei 12.846/2013 — aspectos práticos",
+            "Simulação: Uso do canal de denúncias",
+            "Avaliação final do módulo"
+          ]
+        }
+      ]
+    }
+  ]
+}
